@@ -1,3 +1,5 @@
+import './CommentInfo.scss';
+
 /* eslint-disable prettier/prettier */
 export const CommentInfo = ({ comment }) => (
   <div className="CommentInfo">
